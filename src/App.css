@@ -1,0 +1,54 @@
+
+div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.cards{
+  display: flex;
+}
+
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+a{
+  display:block;
+  background-color: rgb(167, 122, 209);
+  width: 150px;
+  height: 30px;
+  margin-left: 16%;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 70px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
